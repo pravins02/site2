@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher at the <a href='https://ml.informatik.uni-freiburg.de/'>Machine Learning Lab in Freiburg</a>.
+subtitle: PhD Candidate at the <a href='https://wm.edu/as/appliedscience/'>Department of Applied Science, William & Mary</a>.
 
 profile:
   align: right
