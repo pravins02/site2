@@ -123,67 +123,68 @@
         - Ensured the academic well being of students by various policies. 
     - title: Science Teacher
       institution: Texas International School, Kathmandu, Nepal
-      year: 2014-2016
+      year: 2014 - 2016
       description:
         - Taught the Science courses to high school students as per the Education Board curriculum.
         - Conducted active participation of students in several workshops and exhibitions.
       
-    - title: Automated Machine Learning (Flipped Classroom)
-      year: 2020 - Now
+    - title: Mathematics Tutor
+      institution: The Spangle Boarding High School, Kathmandu, Nepal
+      year: 2013 - 2014
       description:
-        - Creation and grading of exercises & final project. Setting up online teaching through Zoom and GitHub classroom.
+        - Taught students how to solve mathematics problems with better ways to understand the concepts.
 
-    - title: Automated Machine Learning
-      year: 2019
+    - title: Personal Tutoring
+      year: 2012 - Now
       description:
-        - Creation and grading of exercises & final project.
+        - I have been tutoring students of different levels, middle school to Engineering levels.
 
-    - title: Machine Learning for Automated Algorithm Design
-      year: 2017 - 2019
-      description:
-        - Creation and grading of exercises & final project.
+    # - title: Machine Learning for Automated Algorithm Design
+    #   year: 2017 - 2019
+    #   description:
+    #     - Creation and grading of exercises & final project.
 
-    - title: Hardware Lab-Course
-      year: 2014
-      description:
-        - Assisting students with practical exercises
+    # - title: Hardware Lab-Course
+    #   year: 2014
+    #   description:
+    #     - Assisting students with practical exercises
 
-- title: Program Committee Membership
-  type: time_table
-  contents:
-    - year: 2024
-      description:
-        - ICLR, ICML, AutoML Conference, JAIR, ECAI
-    - year: 2023
-      description:
-        - JAAMAS, ICML, AutoML Conference, NeurIPS, JAIR, EWRL
-    - year: 2022
-      description:
-        - JAIR, TEVC, EWRL, NeurIPS, Journal of the ACM, AutoML Conference, ALOE@ICLR, Computational Intelligence Journal
-    - year: 2021
-      description:
-        - Journal of the ACM, NeurIPS Datasets and Benchmarks (Track 1 & Track 2), NeurIPS, AutoML@ICML, ICML
-    - year: 2020
-      description:
-        - ECAI, AutoML@ICML
-    - year: 2019
-      description:
-        - ICML, AutoML@ICML
-    - year: 2018
-      description:
-        - AAAI, AutoML@ICML
+# - title: Program Committee Membership # Add memberships of Different organization involved here later.
+#   type: time_table
+#   contents:
+#     - year: 2024
+#       description:
+#         - ICLR, ICML, AutoML Conference, JAIR, ECAI
+#     - year: 2023
+#       description:
+#         - JAAMAS, ICML, AutoML Conference, NeurIPS, JAIR, EWRL
+#     - year: 2022
+#       description:
+#         - JAIR, TEVC, EWRL, NeurIPS, Journal of the ACM, AutoML Conference, ALOE@ICLR, Computational Intelligence Journal
+#     - year: 2021
+#       description:
+#         - Journal of the ACM, NeurIPS Datasets and Benchmarks (Track 1 & Track 2), NeurIPS, AutoML@ICML, ICML
+#     - year: 2020
+#       description:
+#         - ECAI, AutoML@ICML
+#     - year: 2019
+#       description:
+#         - ICML, AutoML@ICML
+#     - year: 2018
+#       description:
+#         - AAAI, AutoML@ICML
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
-      items:
-        - "<a href=\"https://gecco-2022.sigevo.org/Best-Paper-Nominations\">Won the Best Paper Award at GECCO'22 (GECH track)</a>"
     - year: 2021
       items:
-        - "<a href=\"https://icml.cc/Conferences/2021/Reviewers\">Best Reviewers Award (Top 10%) ICML'21</a>"
-    - year: 2020
+        - Awarded Graduate Assistant Full Scholarship for PhD Studies by William & Mary."
+    - year: Summer 2022 & 2023
       items:
-        - "<a href=\"https://bbochallenge.com/leaderboard/\">1st place on the meta-learning track leaderboard of the Black-Box Optimization Competition@NeurIPS'20</a>"
-        - "<a href=\"https://bbochallenge.com/altleaderboard/\">3rd place on the main track of the Black-Box Optimization Competition @NeurIPS'20</a>"
+        - Graduate Research Fellowship, Awarded by Department of Applied Science, William & Mary
+    # - year: 2020
+    #   items:
+    #     - "<a href=\"https://bbochallenge.com/leaderboard/\">1st place on the meta-learning track leaderboard of the Black-Box Optimization Competition@NeurIPS'20</a>"
+    #     - "<a href=\"https://bbochallenge.com/altleaderboard/\">3rd place on the main track of the Black-Box Optimization Competition @NeurIPS'20</a>"
 
