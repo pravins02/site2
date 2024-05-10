@@ -67,9 +67,9 @@
   contents:
     - title: Research Assistant (RA)
       year: 2022 - Ongoing
-      institution: "<a href=\"https://sites.google.com/email.wm.edu/opticsandlaserlab/home\">The Optics and Laser Lab</a>"
+      institution: "<a href=\"https://sites.google.com/email.wm.edu/opticsandlaserlab/home\">The Optics and Laser Lab</a>,<a href=\"https://wm.edu\">William & Mary, USA</a>"
       description:
-        - "2022 - NOW: Contuing working on my PhD project."
+        - "2022 - Now: Continuing working on my PhD project."
         - "2022: Working on my PhD candidacy research proposal."
     - title: MS Thesis Project
       year: AUG 2018 - MAY 2019
@@ -103,24 +103,31 @@
   contents:
     - title: Teachin Assistant (TA)
       institution: Department of Physics, William & Mary
-      year: Fall 2021 - Spring 2022
+      year: Fall '21 - Spring '22
       description:
         - Graded the Course PHYS - 101H (Fall -2021)
         - Problem Session taught for the Course PHYS - 102H (Spring - 2022)
     - title: Teaching Assistant (TA)
       institution: Department of Physics, William & Mary
-      year: Fall 2022 - Spring 2023
+      year: Fall '22 - Spring '23
       description:
         - Taught Lab courses for PHYS 101L and PHYS 102L.
         - Graded the Lab assignments and provided feedback to the students.
         - Participated weekly in TA's meeting to enhance the course effectiveness.
-    - title: Seminar on Dynamic Algorithm Configuration and Optimization
-      year: 2022
-    - title: Automated Machine Learning (Massive Open Online Course)
-      year: 2021 - Now
+    - title: Senior Science Teacher & Academic Incharge
+      institution: Texas International School, Kathmandu, Nepal
+      year: 2019-2021
       description:
-        - Creation of coding exercises. Involved in setting up the MOOC
-
+        - Taught AP level Physics courses to high school students which includes Mechanics, Thermodynamics, Optics, Sound, Electromagnetism, Modern Physics, and Waves.
+        - Conducted science exhibition among different schools.
+        - Ensured the academic well being of students by various policies. 
+    - title: Science Teacher
+      institution: Texas International School, Kathmandu, Nepal
+      year: 2014-2016
+      description:
+        - Taught the Science courses to high school students as per the Education Board curriculum.
+        - Conducted active participation of students in several workshops and exhibitions.
+      
     - title: Automated Machine Learning (Flipped Classroom)
       year: 2020 - Now
       description:
