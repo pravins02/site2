@@ -8,7 +8,7 @@
     - name: Languages
       value: Nepali (native), Hindi (native), English (fluent), Marvadi
 
-- title: Reserach Interests and Selected Published Works
+# - title: Reserach Interests and Selected Published Works
   type: nested_list
   contents:
     - title: Dynamic Algorithm Configuration
@@ -36,8 +36,8 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Electronics Materials and Laser Spectroscopy
-      institution: Dept. of Applied Science, William & Mary, USA
+    - title: PhD in Electronic Materials and Laser Spectroscopy
+      institution: "<a href=\"https://wm.edu/as/appliedscience\">Dept. of Applied Science</a>,<a href=\"https://wm.edu\">William & Mary, USA</a>
       year: Aug 2021 - Ongoing
       description:
         - "Advisor: Prof. Dr. Gunter Luepke"
@@ -58,7 +58,7 @@
       institution: Amrit Science Campus, Tribhuvan University, USA
       year: 2010 - 2013
       description:
-        # - "Thesis: Data Analysis for the Selection of Recording Channels on Multielectrode-Arrays"
+        - "Courses: Mechanics, Optics, Thermodynamics, Classical Mechanics, Statistical Mechanics, Quantum Mechanics, Mathematical Methods of Physics, Linear Algebra"
         # - "Supervisor: Prof. Dr. Wolfram Burgard"
 
 
