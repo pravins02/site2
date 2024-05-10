@@ -14,7 +14,7 @@ footer_text: >
 keywords: Ultrafast materials Spectroscopy, Magnetic materials, Spin dynamics  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🤖  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: prof_pic.jpeg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://pravinsharma.com.np # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -68,7 +68,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: pravins02 # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+twitter_username: pravins002 # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: pravins02 # your LinkedIn user name
 # scholar_userid: WvtpDmcAAAAJ # your Google Scholar ID
@@ -78,7 +78,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: Pravin-Sharma-6 # your profile on ResearchGate
 blogger_url: # your blogger URL
-# work_url: https://ml.informatik.uni-freiburg.de/~biedenka # work page URL
+work_url: https://sites.google.com/email.wm.edu/opticsandlaserlab/people/current-members?authuser=0 # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 # dblp_url: https://dblp1.uni-trier.de/pid/195/8188.html # your DBLP profile url
@@ -91,7 +91,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:  # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-YH1WDJ2EQW # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -101,8 +101,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blog # your blog must have a name for it to show up in the nav bar
-blog_description: Collection of blog posts I have written/contributed to.
+blog_name: My Personal Blogs # your blog must have a name for it to show up in the nav bar
+blog_description: Collection of blog posts about my research and hobbies!!!
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 permalink: /blog/:year/:title/
 
@@ -292,7 +292,7 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
