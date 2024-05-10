@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 nav: true
 display_categories: [DAC, other]
-nav_order: 3
+nav_order: 2
 horizontal: false
 ---
 

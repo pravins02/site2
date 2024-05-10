@@ -2,9 +2,9 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
+description: Courses which I have taught over time.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 For up to date information on my involvement in teaching please check [the teaching website of the machine learning group in Freiburg](https://ml.informatik.uni-freiburg.de/teaching)
