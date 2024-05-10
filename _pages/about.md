@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate at the <a href='https://wm.edu/as/appliedscience/'>Department of Applied Science, William & Mary</a>.
+subtitle: PhD Student at the <a href='https://sites.google.com/email.wm.edu/opticsandlaserlab/home/'>The Optics and Laser Lab, William & Mary</a>.
 
 profile:
   align: right

@@ -47,7 +47,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: false
+footer_fixed: true
 
 # Dimensions
 max_width: 800px
@@ -110,6 +110,10 @@ permalink: /blog/:year/:title/
 pagination:
   enabled: true
 
+related_blog_posts:
+  enabled: true
+  max_related: 5
+
 # Comments
 disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -120,6 +124,7 @@ disqus_shortname: # put your disqus shortname
 external_sources:
   # - name: automl.org
     # rss_url: https://www.automl.org/author/abiedenkapp/feed
+
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -137,6 +142,11 @@ collections:
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 news_limit: # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
