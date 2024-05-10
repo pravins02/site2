@@ -8,7 +8,7 @@
     - name: Languages
       value: Nepali (native), Hindi (native), English (fluent), Marvadi
 
-# - title: Reserach Interests and Selected Published Works
+- title: Reserach Interests and Selected Published Works
   type: nested_list
   contents:
     - title: Dynamic Algorithm Configuration
@@ -37,7 +37,7 @@
   type: time_table
   contents:
     - title: PhD in Electronic Materials and Laser Spectroscopy
-      institution: "<a href=\"https://wm.edu/as/appliedscience\">Dept. of Applied Science</a>,<a href=\"https://wm.edu\">William & Mary, USA</a>
+      institution: "<a href=\"https://wm.edu/as/appliedscience\">Dept. of Applied Science</a>,<a href=\"https://wm.edu\">William & Mary, USA</a>"
       year: Aug 2021 - Ongoing
       description:
         - "Advisor: Prof. Dr. Gunter Luepke"
