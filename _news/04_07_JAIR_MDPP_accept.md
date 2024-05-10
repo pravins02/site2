@@ -3,6 +3,7 @@ layout: post
 title: New JAIR publication
 date: 2023-07-04 08:00:00+0200
 inline: True
+category: 
 ---
 
 Our latest paper presenting the *<a href="https://jair.org/index.php/jair/article/view/14314">MDP Playground</a>* has been accepted published by JAIR.
