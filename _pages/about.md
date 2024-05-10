@@ -1,8 +1,8 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
-subtitle: PhD Student at the <a href='https://sites.google.com/email.wm.edu/opticsandlaserlab/home/'>The Optics and Laser Lab, William & Mary</a>.
+subtitle: PhD Student at the **<a href='https://sites.google.com/email.wm.edu/opticsandlaserlab/home/'>The Optics and Laser Lab, William & Mary</a>**.
 
 profile:
   align: right
@@ -18,6 +18,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
 
 Hello everyone!!! &#128075; 
 
