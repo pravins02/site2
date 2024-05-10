@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello everyone!!! &#128075; 
 
-I am Pravin Sharma a third year PhD candidate in Department of Applied Science at William & Mary. I am working with <a href='https://www.wm.edu/as/appliedscience/people/luepke_g.php'>Prof. Gunter Luepke</a>. My research focuses on understanding the interfacial spin dynamics at different magnetic heterostructure materials. We use both experimental and theoretical approach to understand the spin dynamics. 
+I am Pravin Sharma a third year PhD candidate in Department of Applied Science at William & Mary. I am working with <a href='https://www.wm.edu/as/appliedscience/people/luepke_g.php'>**Prof. Gunter Luepke**</a>. My research focuses on understanding the interfacial spin dynamics at different magnetic heterostructure materials. We use both experimental and theoretical approach to understand the spin dynamics. 
 
 We work at the interface of electrical and physical sciences mainly focusing at the magnetic materials. The focus is on understanding the dynamical processes by studying the electrical and magneticproperties. Our researach involves nonlinear optical techniques which is based on the usage of ultrafast high-power lasers with the femtosecond time scale resolution.
 
