@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: André Biedenkapp
+      value: Pravin Sharma
     - name: Date of Birth
-      value: 13th July 1992
+      value: 10th April 1992
     - name: Languages
-      value: German (native), English (fluent), French (beginner)
+      value: Nepali (native), Hindi (native), English (fluent), Marvadi
 
 - title: Reserach Interests and Selected Published Works
   type: nested_list
@@ -36,30 +36,30 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Machine Learning
-      institution: Machine Learning Lab, University of Freiburg, Germany
-      year: Feb 2018 - Oct 2022
+    - title: PhD in Electronics Materials and Laser Spectroscopy
+      institution: Dept. of Applied Science, William & Mary, USA
+      year: Aug 2021 - Ongoing
       description:
-        - "Advisor: Prof. Dr. Frank Hutter"
-        - "Second Advisor: Prof. Dr. Marius Lindauer"
-        - "Title: <a href=\"https://ml.informatik.uni-freiburg.de/wp-content/uploads/2022/11/2022_Dissertation_Andre_Biedenkapp.pdf\">Dynamic Algorithm Configuration by Reinforcement Learning</a>"
-    - title: Summer School
-      institution: <a href="http://rlss.inria.fr/">Reinforcement Learning Summer SCOOL (RLSS'19)</a>
-      year: July 2019
-    - title: Master of Science - Computer Science
-      institution: University of Freiburg, Germany
-      year: 2014 - 2017
+        - "Advisor: Prof. Dr. Gunter Luepke"
+        # - "Second Advisor: Prof. Dr. Marius Lindauer"
+        # - "Title: <a href=\"https://ml.informatik.uni-freiburg.de/wp-content/uploads/2022/11/2022_Dissertation_Andre_Biedenkapp.pdf\">Dynamic Algorithm Configuration by Reinforcement Learning</a>"
+    # - title: Summer School
+      # institution: <a href="http://rlss.inria.fr/">Reinforcement Learning Summer SCOOL (RLSS'19)</a>
+      # year: July 2019
+    - title: Master of Science - Physics
+      institution: Savitribai Phule Pune University (SPPU), Pune, India
+      year: 2016 - 2019
       description:
-        - "Thesis: <a href=\"https://ml.informatik.uni-freiburg.de/wp-content/uploads/2024/01/2017_PIAC_Biedenkapp.pdf\">Per Instance Algorithm Configuration</a>"
-        - "Supervisor: Dr. Marius Lindauer"
-        - "First Examiner: Prof. Dr. Frank Hutter"
-        - "Second Examiner: Prof. Dr. Bernhard Nebel"
-    - title: Bachelor of Science - Computer Science
-      institution: University of Freiburg, Germany
-      year: 2011 - 2014
+        - "Thesis: Study of SnO2 coated Au Nanocrystals with varying core size "
+        - "Supervisor: Prof. Dr. Shailaja Mahamuni"
+        - "First Examiner: Prof. Dr. Sandesh R. Jadkar"
+        - "Second Examiner: Prof. Dr. Shreekrishna D. Sartale"
+    - title: Bachelor of Science - Physics
+      institution: Amrit Science Campus, Tribhuvan University, USA
+      year: 2010 - 2013
       description:
-        - "Thesis: Data Analysis for the Selection of Recording Channels on Multielectrode-Arrays"
-        - "Supervisor: Prof. Dr. Wolfram Burgard"
+        # - "Thesis: Data Analysis for the Selection of Recording Channels on Multielectrode-Arrays"
+        # - "Supervisor: Prof. Dr. Wolfram Burgard"
 
 
 - title: Experience
