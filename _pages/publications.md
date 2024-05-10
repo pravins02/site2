@@ -2,12 +2,12 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications are listed in reversed chronological order.
+description: Coming Soon . . .
 years: [2024,2023,2022,2021,2020,2019,2018,2017]
 nav: true
 nav_order: 1
 ---
-<!-- _pages/publications.md -->
+<!-- _pages/publications.md
 <div class="publications">
 <nav id="year-nav" class="navbar fixed-bottom container" style="margin-bottom: -50px; align-self: center;">
   <p class="post-description" style="padding-bottom: 15px; align-self: center"> Jump to:
@@ -22,4 +22,4 @@ nav_order: 1
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-</div>
+</div> -->
