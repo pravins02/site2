@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Poster presentation at 2024 GHRS at William & Mary.
-date: 2024-03-2 15:00:00+0200
+date: 2024-03-22 15:00:00+0200
 inline: False
 catergories: research
 ---

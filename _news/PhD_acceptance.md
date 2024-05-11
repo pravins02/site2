@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Acceptance in a PhD Program at **William & Mary**.
+title: Acceptance in a PhD Program at William & Mary.
 date: 2021-03-07 7:30:00+0200
 inline: False
 # categories: academics
