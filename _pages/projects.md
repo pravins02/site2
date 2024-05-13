@@ -9,6 +9,8 @@ nav_order: 3
 horizontal: false
 ---
 
+ <BR><b>Note: This part of my webpage will be updated soon.</b>"
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
