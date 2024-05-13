@@ -2,23 +2,26 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Courses which I have taught over time.
+description: Here is the list of courses I have taught, students I have mentored at Nepal and William & Mary.
 nav: true
 nav_order: 4
 ---
 
-For up to date information on my involvement in teaching please check [the teaching website of the machine learning group in Freiburg](https://ml.informatik.uni-freiburg.de/teaching)
+** Courses:**
 
-During the time of my PhD studies at the university of Freiburg, I have been involved in teaching in the following courses:
+During the time of my Teaching Assistantship at the William & Mary, I have been involved in teaching in the following courses:
 
-    2022: Teaching Assistant: Automated Machine Learning
-    2021: Teaching Assistant: MOOC on Automated Machine Learning
-    2021: Teaching Assistant: Automated Machine Learning
-    2020: Teaching Assistant: Automated Machine Learning
-    2019: Teaching Assistant: Automated Machine Learning
-    2018: Teaching Assistant: Machine Learning for Automated Algorithm Design
-    2017: Teaching Assistant: Machine Learning for Automated Algorithm Design
+   * Fall 2022 - Spring 2023: Teaching Assistant: PHYS - 101/2L
+    - Conducted lab course as an intructor.
+    - Graded the lab assignments with feedback to the students.
+    - Responsible for safe lab practices in the Lab.
+    - Two sections each with ~20 students.
+   * Fall 2021 - Spring 2022: Teaching Assistant: PHYS - 101/2H
+    - Graded the weekly assignments of undergraduate students with feedback.
+    - Taught the Problem Session Classes as Instructor.
+    - Graded final exams papers for undergraduate students.
+    - One section with ~45 and another with ~95 students
 
-In particular, I have created the practical exercises (in python) for the students to get hands-on experience with AutoML algorithms.
-The latest iteration of exercises are freely available as part of our MOOC on Automated Machine Learning.
-You can check it out here: [https://learn.ki-campus.org/courses/automl-luh2021](https://learn.ki-campus.org/courses/automl-luh2021)
+In particular, I have been teaching since my final year as an undergraduate student in Nepal. Details about my teaching can be found on the CV page. 
+
+You can check it out here: [Pravin Sharma - CV](https://pravinsharma.com.np/cv).
