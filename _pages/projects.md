@@ -2,9 +2,10 @@
 layout: default
 title: Projects
 permalink: /projects/
+description: To be updated soon.
 nav: true
-display_categories: [DAC, other]
-nav_order: 2
+display_categories: [ASD, Other]
+nav_order: 3
 horizontal: false
 ---
 
