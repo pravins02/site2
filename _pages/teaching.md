@@ -9,12 +9,12 @@ nav_order: 4
 
 **Courses:**
 
-* Fall 2022 - Spring 2023: Teaching Assistant: PHYS - 101/2L
+* **Fall 2022 - Spring 2023: Teaching Assistant: PHYS - 101/2L**
   - Conducted lab course as an instructor.
   - Graded the lab assignments with feedback to the students.
   - Responsible for safe lab practices in the Lab.
   - Two sections each with ~20 students.
-* Fall 2021 - Spring 2022: Teaching Assistant: PHYS - 101/2H
+* **Fall 2021 - Spring 2022: Teaching Assistant: PHYS - 101/2H**
   - Graded the weekly assignments of undergraduate students with feedback.
   - Taught the Problem Session classes as an instructor.
   - Graded final exams papers for undergraduate students.
