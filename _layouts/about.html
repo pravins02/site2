@@ -40,6 +40,8 @@ layout: default
             {{ content }}
           </div>
           <hr>
+
+          {% if page.news -%}
           <!-- News -->
           {%- include news.html %}
           <hr>
