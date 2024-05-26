@@ -3,8 +3,12 @@
   contents:
     - name: Full Name
       value: Pravin Sharma
-    - name: Date of Birth
-      value: 10th April 1992
+    - name: Label
+      value: PhD Candidate
+    - name: Summary
+      value: A curious researcher who is interested to do some cool science with good impact.
+    # - name: Date of Birth
+      # value: 10th April 1992
     - name: Languages
       value: Nepali (native), Hindi (native), English (fluent), Marvadi, Marathi
 
