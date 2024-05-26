@@ -103,7 +103,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: My Blogs # your blog must have a name for it to show up in the nav bar
 blog_description: Blogs about my research and hobbies!!!
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -140,13 +140,15 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_scrollable: false # adds a vertical scroll bar if there are more than 3 news items
-news_limit: # leave blank to include all the news in the `_news` folder
+announcements:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -222,7 +224,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags:  # this tags will be dispalyed on the front page of your blog
+display_tags: ['research', 'hiking-trips', 'travel', 'hobbies', 'storage-devices'] # these tags will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -230,8 +232,8 @@ display_tags:  # this tags will be dispalyed on the front page of your blog
 
 scholar:
 
-  last_name: Biedenkapp
-  first_name: [André, Andre, A.]
+  last_name: Sharma
+  first_name: [Pravin, Pravin, P.]
   style: apa
   locale: en
 
