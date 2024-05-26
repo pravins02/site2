@@ -103,7 +103,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: My Blogs # your blog must have a name for it to show up in the nav bar
 blog_description: Blogs about my research and hobbies!!!
-blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -139,11 +139,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-
-announcements:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
@@ -224,11 +219,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-<<<<<<< HEAD
-display_tags: ['research', 'hiking-trips', 'travel', 'hobbies', 'storage-devices'] # these tags will be displayed on the front page of your blog
-=======
 display_tags: ['hiking-trips','research','travel','torage-devices'] # this tags will be dispalyed on the front page of your blog
->>>>>>> 5043aa042d605fc489575aa3cd19e4618974519f
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
