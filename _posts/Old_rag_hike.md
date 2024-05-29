@@ -4,7 +4,7 @@ title: A hike to Old Rag Mountain in Shenandoah National Park.
 date: 2024-03-16 7:30:00
 description: A weekend get away with Grad School friends.
 # redirect: https://bair.berkeley.edu/blog/2021/04/19/mbrl/
-categories: hiking-trips
+# categories: hiking-trips
 ---
 
 One of the many wonderful National Parks in the Unites States, Shenandoah National Park is the best to visit and indulge the beauty of nature at heart. Nestled in the Blue Ridge Mountains of Virginia, this national park is renowned for its scenic beauty and diverse hiking trails, or I can say it “ a hiker’s paradise” offering over 500 miles of trails that goes through a dense forest, cascading waterfalls, and breathtaking vistas. In this blog post, we’ll take you through a recent weekend hike trip to Old Rag summit trail in Shenandoah NP where a small group of graduate students came out from their every day’s hustling university life and sharing tips, highlights, and reflections from the journey from a graduate students perspective.
@@ -14,14 +14,6 @@ One of the many wonderful National Parks in the Unites States, Shenandoah Nation
         {% include figure.html path="assets/img/blog/snp_3.jpg" title="snp_3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-<!-- <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.html loading="eager" path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container> -->
 
 Shenandoah is beautiful year-round, but the best season for hiking is spring (April to June) and fall (September to November). However, one can go there in March also, which we did. I have been to Shenandoah in both seasons mentioned above and yes, it is awesome to experience it. The temperature is moderate in these seasons, and the park is alive with blooming wildflowers or vibrant autumn foliage. On our way we found lots of enthusiastic hikers like us. This trip was organized by the Physics Graduate Student Association of William & Mary, a second-oldest in the USA, and a Public-Ivy league university on the eastern peninsula of Virginia.
 We all had our hiking boots on as they are really helpful for your ankle and uneven terrain. In terms of clothing, we dressed in layers to adapt to the changing weather conditions. Its windy when you gain heights so layered clothes preferred. We also had personal backpacks, which had water, snacks, a first-aid kit, map, and a wooden trident ( our friend found it on the way and thought to take it to the top).
