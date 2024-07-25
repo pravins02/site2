@@ -183,14 +183,14 @@
   contents:
     - year: 2021
       items:
-        - Awarded Graduate Assistant Full Scholarship for PhD Studies by William & Mary."
+        - Awarded Graduate Assistant Full Scholarship for PhD Studies by William & Mary.
     - year: Summer 2022 & 2023
       items:
         - Graduate Research Fellowship, Awarded by Department of Applied Science, William & Mary
-    # - year: 2020
-    #   items:
-    #     - "<a href=\"https://bbochallenge.com/leaderboard/\">1st place on the meta-learning track leaderboard of the Black-Box Optimization Competition@NeurIPS'20</a>"
-    #     - "<a href=\"https://bbochallenge.com/altleaderboard/\">3rd place on the main track of the Black-Box Optimization Competition @NeurIPS'20</a>"
+    - year: 2024
+      items:
+        - Awarded Travel Grant to participate in **<a href='https://anpaglobal.org/conferences-and-events/conference-2024/'>ANPA Global Conference 2024</a>**. 
+  #     - "<a href=\"https://bbochallenge.com/altleaderboard/\">3rd place on the main track of the Black-Box Optimization Competition @NeurIPS'20</a>"
 
 - title: Voluteer
   type: time_table
