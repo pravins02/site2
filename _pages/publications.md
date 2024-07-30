@@ -1,11 +1,11 @@
 ---
-# layout: page
-#permalink: /publications/
-#title: Publications
-#description: Coming Soon . . .
-#years: 
-#nav: true
-#nav_order: 1
+layout: page
+permalink: /publications/
+title: Publications
+description: Coming Soon . . .
+years: 
+nav: true
+nav_order: 1
 ---
 
 <nav id="year-nav" class="navbar fixed-bottom container" style="margin-bottom: -50px; align-self: center;">
