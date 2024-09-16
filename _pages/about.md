@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Small Hall, RM #064</p>
-    <p>300 Ukrop Way</p>
+    <p>Applied Science Department</p>
+    <p>William & Mary</p>
     <p>Williamsburg, VA, USA</p>
 #<p style="margin: 10px 0 0 0; font-size: 75% !important">My 3 word address: <a href='https://what3words.com/forecast.gamer.showcase'>///forecast.gamer.showcase</a></p>
 
