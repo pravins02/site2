@@ -1,12 +1,12 @@
----
-layout: page
-permalink: /publications/
-title: Publications
+#---
+#layout: page
+#permalink: /publications/
+#title: Publications
 #description: Coming Soon . . .
-years: [2019]
-nav: true
-nav_order: 1
----
+#years: [2019]
+#nav: true
+#nav_order: 1
+#---
 
 <!-- <nav id="year-nav" class="navbar fixed-bottom container" style="margin-bottom: -50px; align-self: center;">
   <p class="post-description" style="padding-bottom: 15px; align-self: center"> Jump to:
