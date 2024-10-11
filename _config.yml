@@ -71,8 +71,8 @@ gitlab_username: # your GitLab user name
 twitter_username: #pravins002 # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: pravins02 # your LinkedIn user name
-# scholar_userid: CnwEmgoAAAAJ # your Google Scholar ID
- orcid_id: 0000-0002-5077-3314 # your ORCID ID
+scholar_userid: CnwEmgoAAAAJ # your Google Scholar ID
+orcid_id: 0000-0002-5077-3314 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
