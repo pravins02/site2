@@ -222,7 +222,7 @@
         - Nepali (native), Hindi (native), English (fluent), Marvadi, Marathi
 
 - title: Professional Membership
-  type: nested_list
+  type: time_table
   contents:
     - title: American Physical Society (APS)
       items:
