@@ -201,3 +201,38 @@
     - year: 2021 - Present
       items:
         - Volunteered in different events with BCM, William & Mary, USA
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Programming Languages
+      items:
+        - Python, MATLAB, Fortran
+    - title: Software
+      items:
+        - Origin, LabView, MS Office, LaTeX
+    - title: Tools
+      items:
+        - VS Code, Jupyter Notebook, Google Colab, Overleaf
+    - title: Soft Skills
+      items:
+        - Communication, Teamwork, Leadership, Problem Solving, Time Management
+    - title: Languages
+      items:
+        - Nepali (native), Hindi (native), English (fluent), Marvadi, Marathi
+
+- title: Professional Membership
+  type: nested_list
+  contents:
+    - title: American Physical Society (APS)
+      items:
+        - Member since 2021
+    - title: Optical Society of America (OSA)
+      items:
+        - William & Mary, Student Chapter Member since 2022
+    - title: IEEE
+      items:
+        - Member since 2023
+    - title: Association of Nepalese Physicists in America (ANPA)
+      items:
+        - Member since 2023
