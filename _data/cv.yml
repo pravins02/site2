@@ -203,7 +203,7 @@
         - Volunteered in different events with BCM, William & Mary, USA
 
 - title: Skills
-  type: nested_list
+  type: time_table
   contents:
     - title: Programming Languages
       items:
