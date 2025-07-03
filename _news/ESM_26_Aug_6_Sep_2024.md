@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Attending European School of Magnetism 2024 Online
-date: Aug 26 2024
+date: 2024-08-26
 inline: True
 catergories: research
 ---
