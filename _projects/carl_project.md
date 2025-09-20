@@ -5,5 +5,5 @@ description: I am using ASD simulations to understand the dynamics behaviour of 
 # redirect: https://github.com/automl/CARL
 img: 
 importance: 1
-category: asd
+category: ASD
 ---
