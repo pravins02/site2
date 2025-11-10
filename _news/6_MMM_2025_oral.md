@@ -6,4 +6,4 @@ inline: True
 catergories: research
 ---
 
-I'm happy to share that I have been selected to deliver an oral presenation at **[The 70th Annual Conference on Magnetism and Magnetic Materials 2025 ](https://2025.magnetism.org/)** at **Palm Beach, FL, USA**.  This is the annual Global conference organized by IEEE Magnetics Society and AIP Publishing .
+I'm happy to share that I have been selected to deliver an oral presenation at **[The 70th Annual Conference on Magnetism and Magnetic Materials 2025 ](https://2025.magnetism.org/)** at **Palm Beach, FL, USA**.  This is the annual Global conference organized by **[IEEE Magnetics Society](https://ieeemagnetics.org/)** and **[AIP Publishing](https://publishing.aip.org/)** .
