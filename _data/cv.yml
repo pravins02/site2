@@ -181,9 +181,38 @@
 - title: Conferences and Workshops
   type: time_table
   contents:
+    - title: Oral Presentation
+      year: 2022 - Ongoing
+      institution: "<a href=\"https://sites.google.com/email.wm.edu/opticsandlaserlab/home\">The Optics and Laser Lab</a>,<a href=\"https://wm.edu\">William & Mary, USA</a>"
+      description:
+        - "2023 - Now: Continuing working on my PhD project."
+        - "2022: Working on my PhD candidacy research proposal."
+    - title: MS Thesis Project
+      year: AUG 2018 - MAY 2019
+      institution: "Department of Physics, SPPU, India"
+      description:
+        - "Working under the supervision of Prof. Dr. Shailaja Mahamuni for my MS Thesis."
+    - title: Research Associate ( Voluntary Position)
+      institution: The Brainycube Research Organization, Nepal
+      year: 2014 - 2021
+      description: 
+        - "Lead Team Nepal to Asia Pacific Conference for Young Scientists (APCYS-2016), Delhi, India."
+        - "Helped organizing the first Youth Science Summit (YSS-2014) in Kathmandu, Nepal."
+        - "Assisted the whole team in other events happened over time in Nepal."
+
+    - title: Financial Head for Annual Fest of the Department, Spandan
+      institution: Department of Physics, SPPU, India
+      year: 2017 - 2018
+      description:
+        - Assisting in the implementation of budget allocated for the event.
+        - Analysed the spending for the event and provided the report to the committee.
+
+- title: Conferences and Workshops
+  type: time_table
+  contents:
     - year: 2025
       items:
-        - Oral Presentation at the 70th Annual Conference on Magnetism and Magnetic Materials, Palm Beach, FL, USA
+        - Oral Presentation at the **70th Annual Conference on Magnetism and Magnetic Materials**, Palm Beach, FL, USA
     - year: Summer 2022 & 2023
       items:
         - Graduate Research Fellowship, Awarded by Department of Applied Science, William & Mary
