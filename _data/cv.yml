@@ -143,47 +143,12 @@
       description:
         - I have been tutoring students of different levels, middle school to Engineering levels.
 
-    # - title: Machine Learning for Automated Algorithm Design
-    #   year: 2017 - 2019
-    #   description:
-    #     - Creation and grading of exercises & final project.
-
-    # - title: Hardware Lab-Course
-    #   year: 2014
-    #   description:
-    #     - Assisting students with practical exercises
-
-# - title: Program Committee Membership # Add memberships of Different organization involved here later.
-#   type: time_table
-#   contents:
-#     - year: 2024
-#       description:
-#         - ICLR, ICML, AutoML Conference, JAIR, ECAI
-#     - year: 2023
-#       description:
-#         - JAAMAS, ICML, AutoML Conference, NeurIPS, JAIR, EWRL
-#     - year: 2022
-#       description:
-#         - JAIR, TEVC, EWRL, NeurIPS, Journal of the ACM, AutoML Conference, ALOE@ICLR, Computational Intelligence Journal
-#     - year: 2021
-#       description:
-#         - Journal of the ACM, NeurIPS Datasets and Benchmarks (Track 1 & Track 2), NeurIPS, AutoML@ICML, ICML
-#     - year: 2020
-#       description:
-#         - ECAI, AutoML@ICML
-#     - year: 2019
-#       description:
-#         - ICML, AutoML@ICML
-#     - year: 2018
-#       description:
-#         - AAAI, AutoML@ICML
-
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2025
       items:
-        - Awarded travel funding for participating in <a href='https://2025.magnetism.org/'>70th Annual Conference on Magnetism and Magnetic Materials-2025</a> by <a href=\"https://wm.edu/as/appliedscience\">Dept. of Applied Science</a>,<a href=\"https://cdsp.wm.edu\">School of Computing, Data Sciences & Physics</a> ,<a href=\"https://wm.edu\">William & Mary, USA</a>
+        - Awarded travel funding for participating in <a href='https://2025.magnetism.org/'>70th Annual Conference on Magnetism and Magnetic Materials-2025</a> by <a href=\"https://wm.edu/as/appliedscience/">Dept. of Applied Science</a>,<a href=\"https://cdsp.wm.edu\">School of Computing, Data Sciences & Physics</a> ,<a href=\"https://wm.edu\">William & Mary, USA</a>
     - year: 2024
       items:
         - Awarded Travel Grant to participate in <a href='https://anpaglobal.org/conferences-and-events/conference-2024/'>ANPA Global Conference 2024</a> by <a href='https://anpaglobal.org/'>ANPA</a>. 
