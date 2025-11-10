@@ -178,30 +178,6 @@
 #       description:
 #         - AAAI, AutoML@ICML
 
-- title: Conferences and Workshops
-  type: time_table
-  contents:
-    - title: 70th Annual Conference on Magnetism and Magnetic Materials, Palm Beach, FL, USA
-      year: 2025
-      description:
-        - Oral Presentation
-
-    - title: ANPA Global Conference 2024, Fayetteville State University, SC, USA
-      year: 2024
-      description:
-        - Oral Presentation
-
-    - title: Graduate Honors and Research Symposium, William & Mary, USA
-      year: 2024
-      description:
-        - Poster Presentation
-
-    - title: European School on Magnetism, University of York, UK
-      year: 2024
-      description:
-        - Online Participation
-
-
 - title: Honors and Awards
   type: time_table
   contents:
